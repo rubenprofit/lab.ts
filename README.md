@@ -1,1 +1,2 @@
-# Repo for testing all things ts
+# lab.ts
+> repo for ts research and experimentation
